@@ -54,19 +54,19 @@ Ans: Rater **B** completed the least Task IDs.
 ![Q5&6](q5-6.png)  
 
 7. What is the precision for each of the 5 labels?  
-Ans:  The precision hovers around 20%. 
+Ans:  The precision hovers around 20%.  
 ![Q7](q7.png)  
 
 8. What is the recall for each of the 5 labels?  
-Ans:  The recall likewise hovers around 20%.
+Ans:  The recall likewise hovers around 20%.  
 ![Q8](q8.png)  
 
 9. What is the precision for each of the 3 labels?  
-Ans:  The precision hovers around 33%. 
+Ans:  The precision hovers around 33%.  
 ![Q9](q9.png)  
 
 10. What is the recall for each of the 3 labels?  
-Ans:  The recall hovers around 33%. 
+Ans:  The recall hovers around 33%.  
 ![Q10](q10.png)  
 
 11. What is the overall agreement rate considering that the raters have to be in agreement with both the engineer's 3-label answer and the engineer's 5-label answer.  
